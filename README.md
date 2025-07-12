@@ -20,7 +20,7 @@ Singapore’s rapidly-ageing population is already putting thousands of ordinary
 * **Caregiver co-morbidities:** **40 %** of family caregivers themselves suffer chronic conditions, amplifying stress. [^6]  
 
 ### 1.3 Employment conflict
-* **Productivity loss & absenteeism:** Flexible-work guidelines arrive only in 2024, and many SMEs remain unprepared to accommodate sudden elder-care crises. [^11][^12]  
+* **Productivity loss & absenteeism:** Flexible-work guidelines arrive only in 2024, and many SMEs remain unprepared to accommodate sudden elder-care crises. [^11]
 
 ---
 
@@ -54,7 +54,7 @@ B) Financial precarity, social isolation |
 
 1. **Demographic inevitability:** Care-recipient pool will swell to > 1 million seniors by 2030. Every extra percentage-point drop in informal care capacity will cascade into billions in healthcare and residential-care spend. [^1]  
 2. **Economic cost of lost productivity:** MOM figures imply ~**S$3.6 billion** in annual wage loss (90,300 × median resident wage ≈ S$4,000/mo). [^3]  
-3. **Policy tailwinds:** Healthier SG and the refreshed Action Plan explicitly highlight “support caregivers”, yet delivery is still nascent — opening doors for public-private pilots. [^13]  
+3. **Policy tailwinds:** Healthier SG and the refreshed Action Plan explicitly highlight “support caregivers”, yet delivery is still nascent — opening doors for public-private pilots. 
 4. **Digital readiness:** COVID-19 normalised tele-consults and app-based social services, making caregivers more receptive to tech-mediated help.  
 5. **Underserved B2B angle:** Employers need tools to predict absenteeism, manage flexible scheduling and link staff to verified respite services — few platforms integrate HR, health and social-care data.  
 
@@ -93,3 +93,15 @@ A venture could deliver:
 | 9 | [AWARE “Make Care Count” report (2019)](https://www.aware.org.sg/wp-content/uploads/AWARE-Make-Care-Count-Report-19-9-19.pdf) | Monetary value of care |
 | 10 | [WHO Cares report (PDF)](https://isomer-user-content.by.gov.sg/24/133c5797-d509-40c9-a5cc-2847dbddc2a0/Who-Cares.pdf) | Service fragmentation |
 | 11 | [TODAY — Flexi-work guidelines (2024)](https://www.todayonline.com/singapore/all-employees-can-ask-flexi-work-arrangements-december-5-key-takeaways-new-guidelines-2402426) | Policy landscape |
+
+[^1]: See source 1.  
+[^2]: See source 2.  
+[^3]: See source 3.  
+[^4]: See source 4.  
+[^5]: See source 5.  
+[^6]: See source 6.  
+[^7]: See source 7.  
+[^8]: See source 8.  
+[^9]: See source 9.  
+[^10]: See source 10.  
+[^11]: See source 11.  
