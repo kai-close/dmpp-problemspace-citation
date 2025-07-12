@@ -1,4 +1,4 @@
-# dump-problemspace-citation
+# dmpp-problemspace-citation
 
 Singapore’s rapidly-ageing population is already putting thousands of ordinary families under strain: almost 1 in 4 citizens will be 65+ by 2030, and more than 90,000 residents have already left the labour force mainly to provide unpaid care. Studies consistently show that **40–45 per cent** of informal caregivers here are at risk of depression, with women — and especially working daughters — bearing the heaviest load. While the Agency for Integrated Care (AIC) and voluntary-welfare organisations (VWOs) offer training grants, respite services and helplines, caregivers report that help is fragmented, hard to navigate and rarely addresses their own mental-health or employment challenges. These gaps create a timely opportunity for new products or platforms — whether consumer-facing or B2B — to protect caregiver well-being, prevent burnout-driven institutionalisation of elders and reduce productivity losses for employers. [^1][^2][^3][^4][^5][^6]
 
